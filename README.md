@@ -3,6 +3,8 @@
 
 **SleepyTime** is a plugin for Rust that will allow players to sleep. If all players on the server go to sleep, then night time will be skipped. 
 
+![Sleepy Time](https://raw.githubusercontent.com/waynieoaks/Rust-SleepyTime/main/images/SleepyTime.png)
+
 ## Features
 * Allows a player to sleep at night
 * Times can be configured
