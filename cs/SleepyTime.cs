@@ -6,7 +6,7 @@ using ConVar;
 
 namespace Oxide.Plugins
 {
-    [Info("SleepyTime", "Waynieoaks", "0.3.0")]
+    [Info("SleepyTime", "Waynieoaks", "1.0.0")]
     [Description("Allows players to use /sleep to toggle sleeping state and skip night if all asleep.")]
     public class SleepyTime : RustPlugin
     {
