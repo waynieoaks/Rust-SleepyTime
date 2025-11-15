@@ -18,4 +18,4 @@
 * EveningHour: 20.0
 
 ## Permissions
-There are no permissions requirments for this plugin.
+There are no permissions requirements for this plugin.
