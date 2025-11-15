@@ -1,2 +1,2 @@
 # Rust-SleepyTime
-Allows players to sleep and skip night in Rust
+Rust Plugin: Allows players to sleep and skip night in Rust
